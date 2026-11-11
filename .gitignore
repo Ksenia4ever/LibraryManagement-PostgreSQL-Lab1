@@ -1,0 +1,35 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET
+**/bin/
+**/obj/
+Debug/
+Release/
+
+# IDE
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Secrets
+.env
+.env.*
+secrets.json
+appsettings.Development.json
+
+# Old project archives
+LibraryManagementApp.zip
